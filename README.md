@@ -5,7 +5,8 @@ This is an endo end project exploring different concepts in data science and mac
 <li> Data cleaning:  Applying various data cleaning techniques</li>
 <li>Feature Engineering and Dimensionality Reduction techniques</li>
 <li>Outlier Detection and Outiler Removal </li>
-
+<li>Dimensionality Reduction</li>
+<h3>Machine learning Model applied: Linear Regression</h2>
 
 
 
